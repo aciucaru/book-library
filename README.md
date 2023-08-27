@@ -1,2 +1,2 @@
 # book-library
-C++ homework project taht simulate a bookstore.
+C++ homework project that simulate a bookstore.
