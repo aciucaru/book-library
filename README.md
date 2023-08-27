@@ -4,7 +4,7 @@ This project has:
 - self made linked list with templates
 - self made forward iterator, that can be used to iterate de custom made linked list (forward only)
 - classes that abstract the items used in a bookstore (person, book, library of books)
-- the ability to continously add commands trough the command-line interface, and exit anytime
+
 
 The command line program allows the user to:
 - add books to the library (one at a time) 
@@ -12,3 +12,4 @@ The command line program allows the user to:
 - delte a book from the library
 - borrow a book to a specific user
 - list all books borrowed by a specific user
+- continously add commands trough the command-line interface, and exit anytime
